@@ -1,4 +1,7 @@
 # -*- coding: UTF-8 -*-
+'''
+Lotto 사이트 웹 크롤링 및 크롤링한 데이터 저장
+'''
 
 import requests
 import pymysql
